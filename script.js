@@ -6,23 +6,23 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
   {
-    enunciado: "Pergunta 1",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "A água é composta por dois átomos de hidrogênio e um de oxigênio.",
+    alternativas: ["Verdadeiro", "Falso"],
   },
   {
-    enunciado: "Pergunta 2",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "O Brasil fica na América do Norte.",
+    alternativas: [" Verdadeiro", "Falso"],
   },
    {
-    enunciado: "Pergunta 3",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "A água do mar é salgada por causa do sal dissolvido nela.",
+    alternativas: ["Verdadeiro", "Falso"],
   },
    {
-    enunciado: "Pergunta 4",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "O som viaja mais rápido no ar do que na água.",
+    alternativas: ["Verdadeiro", "Falso"],
   },
    {
-    enunciado: "Pergunta 5",
-    alternativas: ["Alternativa 1", "Alternativa 2"],
+    enunciado: "As plantas produzem oxigênio através do processo de fotossíntese.",
+    alternativas: ["Verdadeiro", "Falso"],
   },
 ];
